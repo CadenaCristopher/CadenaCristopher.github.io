@@ -1,0 +1,14 @@
+h1{
+    background-image: url(https://img.freepik.com/free-photo/summer-background-sea-water_64049-160.jpg?w=1380&t=st=1666146023~exp=1666146623~hmac=863c3ed92a3cb8d1e0825d848d6899dfa5c41b809b500ce12dc2c4a7edd6ef3c);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover ;
+    color:aliceblue ;
+}
+.blockquote {
+    font-weight: bold;
+    font-size:x-large;
+}
+h2{
+    font-weight: bold;
+}
